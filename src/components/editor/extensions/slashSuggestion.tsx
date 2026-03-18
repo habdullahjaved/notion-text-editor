@@ -1,5 +1,4 @@
 import { ReactRenderer } from "@tiptap/react"
-import Suggestion from "@tiptap/suggestion"
 import type { SuggestionOptions } from "@tiptap/suggestion"
 import tippy, { type Instance, type Props } from "tippy.js"
 import "tippy.js/dist/tippy.css"
