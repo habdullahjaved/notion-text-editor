@@ -251,6 +251,10 @@ Tailwind v4 purges styles not found in JSX at build time. The `.tiptap` styles m
 
 ---
 
+## Live URL
+
+### https://text-editor-aj7.vercel.app/
+
 ## Why Tiptap
 
 - React Quill — abandoned, breaks on React 18+
