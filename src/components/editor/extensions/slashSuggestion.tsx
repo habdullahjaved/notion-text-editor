@@ -15,7 +15,7 @@ export const slashSuggestion: Omit<SuggestionOptions, "editor"> = {
   render: () => {
     let component: ReactRenderer<SlashMenuRef>
     let popup: Instance<Props>[]
-
+    // test
     return {
       onStart: (props) => {
         component = new ReactRenderer(SlashCommandMenu, {
